@@ -4,14 +4,9 @@ import SpinnyIcon from '../spinnyicon'
 import HeaderBlock from '../headerblock'
 
 import './style.scss'
-import {
-  uiContent, 
-  fedContent, 
-  vrContent 
-} from './content'
+import { uiContent, fedContent, vrContent } from './content'
 
 function WhyMe() {
-
   return (
     <div className="why-me">
       <h1>MY PHILOSOPHY</h1>

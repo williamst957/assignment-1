@@ -3,7 +3,6 @@ import React from 'react'
 import './style.scss'
 
 function HeaderBlock({ title, content }) {
-    
   return (
     <div className="header-block">
       <h1>{title}</h1>
